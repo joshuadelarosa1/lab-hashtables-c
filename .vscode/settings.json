@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/delarosa/csc207/labs/junit-platform-console-standalone-1.10.0.jar"
+    ]
+}
